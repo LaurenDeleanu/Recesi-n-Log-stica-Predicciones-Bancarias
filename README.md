@@ -1,1 +1,1 @@
-# Recesi-n-Log-stica-Predicciones-Bancarias
+# Regresion-Logistica-Predicciones-Bancarias
